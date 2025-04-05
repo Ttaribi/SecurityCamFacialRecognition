@@ -24,18 +24,27 @@ The project is designed as a lightweight security camera system with basic track
 
 
 🛠 Technologies Used
+
 Backend / Core Logic
-Python 3 – Main programming language
+
+Python – Main programming language
+
 OpenCV (cv2) – Real-time computer vision and facial recognition
+
 NumPy – For image array manipulation and model training
+
 SQLite – Lightweight embedded database for storing user data (ID, Name, Age)
+
 PIL (Pillow) – For image preprocessing before training
 
+
 🧠 Machine Learning
+
 LBPH Face Recognizer (Local Binary Patterns Histogram) – Machine learning model for facial classification
+
 Haar Cascade Classifier – Pretrained model used to detect frontal faces in frames
 
-📦 Data Handling
-YAML model file (.yml) – Stores trained recognition data
-SQLite
 
+📦 Data Handling
+
+YAML model file (.yml) – Stores trained recognition data
