@@ -23,6 +23,8 @@ The project is designed as a lightweight security camera system with basic track
  📹 Demo Walkthrough
 
 
+
+
 🛠 Technologies Used
 
 Backend / Core Logic
@@ -38,11 +40,13 @@ SQLite – Lightweight embedded database for storing user data (ID, Name, Age)
 PIL (Pillow) – For image preprocessing before training
 
 
+
 🧠 Machine Learning
 
 LBPH Face Recognizer (Local Binary Patterns Histogram) – Machine learning model for facial classification
 
 Haar Cascade Classifier – Pretrained model used to detect frontal faces in frames
+
 
 
 📦 Data Handling
